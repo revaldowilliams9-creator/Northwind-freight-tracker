@@ -1,6 +1,3 @@
-# This program cleans tracking codes, checks if they are valid,
-# and saves (archives) them in a compressed file.
-
 import re
 import zlib
 
