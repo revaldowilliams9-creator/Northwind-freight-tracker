@@ -18,7 +18,7 @@ I built this utility to solve two common backend data-pipeline bottlenecks: mess
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/revaldowilliams9-creator/Northwind-freight-tracker/blob/main/tracking_validator.py
    cd Northwind-freight-tracker
    ```
 
