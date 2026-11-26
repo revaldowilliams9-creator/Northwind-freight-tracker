@@ -35,4 +35,4 @@ I built this utility to solve two common backend data-pipeline bottlenecks: mess
 ## 🖥️ Sample Output
 
 
-<img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/254e4a4a-7360-49e9-baac-cee50f05401e" />
+<img width="650" height="300" alt="image" src="https://github.com/user-attachments/assets/254e4a4a-7360-49e9-baac-cee50f05401e" />
