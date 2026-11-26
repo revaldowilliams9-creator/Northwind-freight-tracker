@@ -26,3 +26,5 @@ I built this utility to solve two common backend data-pipeline bottlenecks: mess
    ```bash
    python tracking_validator.py
    ```
+## ✨ Output
+<img width="604" height="100" alt="image" src="https://github.com/user-attachments/assets/e5567615-97f7-460d-a4e0-2823f871f7bf" />
