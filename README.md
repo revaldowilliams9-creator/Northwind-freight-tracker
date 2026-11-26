@@ -36,17 +36,4 @@ I built this utility to solve two common backend data-pipeline bottlenecks: mess
 ```text
 Notice: 'incoming_codes.txt' not found. Running with built-in sample data.
 
-[VALID]   ABC1234
-[VALID]   XYZ9999
-[INVALID] 12AB567
-[INVALID] DEF-5678
-[VALID]   GHI0001
-----------------------------------------
-Successfully archived 3 valid codes to 'archived_codes.bin'.
-Logged 2 invalid codes to 'rejected_codes.log'.
-Verified archive contents: ['ABC1234', 'XYZ9999', 'GHI0001']
-```
-
-
 <img width="584" height="263" alt="image" src="https://github.com/user-attachments/assets/4470b7fe-f84f-463b-a579-e8ecc9658a85" />
-
