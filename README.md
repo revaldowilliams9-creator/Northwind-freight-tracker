@@ -33,7 +33,6 @@ I built this utility to solve two common backend data-pipeline bottlenecks: mess
    ```
 
 ## 🖥️ Sample Output
-```text
-Notice: 'incoming_codes.txt' not found. Running with built-in sample data.
 
-<img width="584" height="263" alt="image" src="https://github.com/user-attachments/assets/4470b7fe-f84f-463b-a579-e8ecc9658a85" />
+
+<img width="584" height="263" alt="image" src="https://github.com/user-attachments/assets/df421006-9441-401e-9f83-d812abee1758" />
