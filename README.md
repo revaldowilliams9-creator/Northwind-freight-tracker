@@ -47,4 +47,6 @@ Logged 2 invalid codes to 'rejected_codes.log'.
 Verified archive contents: ['ABC1234', 'XYZ9999', 'GHI0001']
 ```
 
-<img width="604" height="100" alt="image" src="https://github.com" />
+
+<img width="584" height="263" alt="image" src="https://github.com/user-attachments/assets/4470b7fe-f84f-463b-a579-e8ecc9658a85" />
+
